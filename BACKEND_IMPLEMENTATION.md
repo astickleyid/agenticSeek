@@ -21,6 +21,24 @@ The minimal backend server (`api_minimal.py`) provides:
 
 ### Running the Minimal Server
 
+**Option 1: Using the startup script (recommended)**
+
+```bash
+# Linux/macOS
+./start_backend.sh
+
+# Windows
+start_backend.bat
+```
+
+The startup script will:
+- Create .env file if it doesn't exist
+- Check and install minimal dependencies
+- Check if the port is available
+- Start the server
+
+**Option 2: Manual start**
+
 ```bash
 # Install minimal dependencies
 pip install fastapi uvicorn pydantic python-dotenv aiofiles celery redis
