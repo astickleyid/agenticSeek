@@ -10,6 +10,8 @@
 
 [![Visit AgenticSeek](https://img.shields.io/static/v1?label=Website&message=AgenticSeek&color=blue&style=flat-square)](https://fosowl.github.io/agenticSeek.html) ![License](https://img.shields.io/badge/license-GPL--3.0-green) [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg/8hGDaME3TC) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fosowl.svg?style=social&label=Update%20%40Fosowl)](https://x.com/Martin993886460) [![GitHub stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=social)](https://github.com/Fosowl/agenticSeek/stargazers)
 
+[![Python CI](https://github.com/astickleyid/agenticSeek/actions/workflows/python-ci.yml/badge.svg)](https://github.com/astickleyid/agenticSeek/actions/workflows/python-ci.yml) [![Frontend CI](https://github.com/astickleyid/agenticSeek/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/astickleyid/agenticSeek/actions/workflows/frontend-ci.yml) [![Deploy to Pages](https://github.com/astickleyid/agenticSeek/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/astickleyid/agenticSeek/actions/workflows/deploy-pages.yml) [![Code Quality](https://github.com/astickleyid/agenticSeek/actions/workflows/code-quality.yml/badge.svg)](https://github.com/astickleyid/agenticSeek/actions/workflows/code-quality.yml)
+
 ### Why AgenticSeek ?
 
 * 🔒 Fully Local & Private - Everything runs on your machine — no cloud, no data sharing. Your files, conversations, and searches stay private.
